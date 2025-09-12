@@ -1,0 +1,7 @@
+REQUIREMENTS:
+Streamlit Framework Knowledge: Streamlit Documentation
+IBM Watson Machine Learning: IBM Watson ML Documentation
+Python Programming Proficiency: Python Documentation
+Data Visualization Libraries: Plotly Documentation
+Version Control with Git: Git Documentation
+Development Environment Setup: Flask Installation Guide
